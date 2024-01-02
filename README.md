@@ -1,6 +1,8 @@
 # C-PY-Vesc
 
-It is C++/Python library with limited functionality for controlling VESC motor controllers. 
+It is C++/Python library for Linux systems with limited functionality for controlling VESC motor controllers. 
+- Tested on RaspberryPi 4.
+
 Based on libraries:
 - [CppLinuxSerial](https://github.com/gbmhunter/CppLinuxSerial)
 - [VescUart](https://github.com/SolidGeek/VescUart)
