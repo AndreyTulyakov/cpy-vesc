@@ -96,7 +96,7 @@ vesc_controller.set_duty(0.25, 87)
 #include <CppLinuxSerial/SerialPort.hpp>
 #include <thread>
 
-#include "src/VescUart.h"
+#include "src/vesc_uart.h"
 
 
 using namespace std;
